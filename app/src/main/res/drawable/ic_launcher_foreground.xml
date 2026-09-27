@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Shield Outline -->
+    <path
+        android:pathData="M54,26 C66,26 76,28 78,33 C78,54 68,69 54,78 C40,69 30,54 30,33 C32,28 42,26 54,26 Z"
+        android:strokeWidth="2.5"
+        android:strokeColor="#64FFDA"
+        android:fillColor="#1A00BFA5" />
+
+    <!-- Inner Bank Pillars & Vault Motif -->
+    <!-- Bank Pediment / Roof -->
+    <path
+        android:pathData="M38,44 L54,34 L70,44 Z"
+        android:fillColor="#00E676" />
+
+    <!-- Roof base bar -->
+    <path
+        android:pathData="M37,45 L71,45 L71,47 L37,47 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Bank Pillars (3 pillars) -->
+    <path
+        android:pathData="M40,49 L44,49 L44,61 L40,61 Z"
+        android:fillColor="#E0F2F1" />
+    <path
+        android:pathData="M52,49 L56,49 L56,61 L52,61 Z"
+        android:fillColor="#E0F2F1" />
+    <path
+        android:pathData="M64,49 L68,49 L68,61 L64,61 Z"
+        android:fillColor="#E0F2F1" />
+
+    <!-- Bank Base -->
+    <path
+        android:pathData="M36,62 L72,62 L72,65 L36,65 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Financial Upward Growth Chevron / Coin Accent -->
+    <path
+        android:pathData="M54,69 C57.8,69 61,65.8 61,62 C61,58.2 57.8,55 54,55 C50.2,55 47,58.2 47,62 C47,65.8 50.2,69 54,69 Z"
+        android:fillColor="#FFD700" />
+    <path
+        android:pathData="M52,59 L56,59 L54,56 Z"
+        android:fillColor="#0D353A" />
+    <path
+        android:pathData="M53,59 L55,59 L55,65 L53,65 Z"
+        android:fillColor="#0D353A" />
+</vector>

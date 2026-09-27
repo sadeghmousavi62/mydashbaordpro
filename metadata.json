@@ -1,0 +1,6 @@
+{
+  "name": "صادق",
+  "description": "سامانه هوشمند خواندن پیامک‌های بانکی و نمایش یکپارچه موجودی و مانده تمام بانک‌ها",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

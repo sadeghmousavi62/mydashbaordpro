@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">صادق</string>
+    <string name="app_tagline">مدیریت پیامک‌های بانکی و موجودی حساب‌ها</string>
+    <string name="total_balance_title">مجموع کل دارایی‌ها</string>
+    <string name="tab_overview">داشبورد</string>
+    <string name="tab_accounts">بانک‌ها و کارت‌ها</string>
+    <string name="tab_transactions">تراکنش‌ها</string>
+    <string name="tab_analytics">تحلیل مالی</string>
+    <string name="tab_tools">ابزار پیامک</string>
+    <string name="btn_scan_sms">اسکن پیامک‌ها</string>
+    <string name="btn_add_sample_data">بارگذاری پیامک‌های تستی</string>
+    <string name="permission_sms_title">دسترسی به پیامک‌ها</string>
+    <string name="permission_sms_desc">برای خواندن خودکار پیامک‌های تراکنش و محاسبه مانده حساب‌ها، دسترسی به پیامک مورد نیاز است. اطلاعات فقط روی دستگاه شما ذخیره می‌شود.</string>
+</resources>
